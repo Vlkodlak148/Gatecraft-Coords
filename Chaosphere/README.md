@@ -6,9 +6,8 @@ This world is filled with mysterious dungeons, hidden treasures, and lots of End
 ---
 
 ## 📜 About Chaosphere
-- A dangerous and magical world, full of teleporting Endermen  
-- Known for rare loot and unique dungeons  
-- Some areas are tricky and require parkour or clever strategies  
+- A dangerous and magical world, full of mysterious dungeons  
+- Known for rare loot and unique dungeons    
 
 ---
 
