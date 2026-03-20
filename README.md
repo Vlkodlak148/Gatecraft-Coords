@@ -21,17 +21,17 @@ Some coordinates may change after server updates or resets. Always explore caref
 
 ---
 
+## 🔗 Official Links
+- 🌐 [Official Gatecraft Website](https://gatecraft.eu)  
+- 📚 [Official Gatecraft Wiki](https://gatecraft.eu/en/wiki)
+
+---
+
 ## 📬 Contact / Bug Reports
 If you notice any mistakes or bugs in the information, please contact me:  
 
 - ✉️ Email: Vlkodlak148@proton.me  
 - 💬 Discord: @Vlkodlak149
-
----
-
-## 🔗 Official Links
-- 🌐 [Official Gatecraft Website](https://gatecraft.eu)  
-- 📚 [Official Gatecraft Wiki](https://gatecraft.eu/en/wiki)  
 
 ---
 
