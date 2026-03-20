@@ -26,3 +26,10 @@ If you notice any mistakes or bugs in the information, please contact me:
 
 - ✉️ Email: Vlkodlak148@proton.me  
 - 💬 Discord: @Vlkodlak149
+
+  ---
+
+## 🛠️ Work in Progress
+
+- New dungeons, worlds, and chest coordinates are being added regularly  
+- Check back often for updates! ⏳
