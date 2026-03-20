@@ -5,11 +5,11 @@ A fortified town with walls, market stalls, and a port ⚓
 ---
 
 ## 📍 Teleport Pad
-- Location: `X Y Z` 
+- Location: `X:1426 Y:85 Z:80` 
 
 ---
 
 ## 👤 NPCs
-- NPC 1: `X Y Z` – Quest NPC
+- Captain Landcaster: `X:1181 Y:87 Z:267` – Quest NPC
   
 ---
