@@ -9,3 +9,8 @@ Haunted town next to Skeledar, home to Wither Skeletons
 
 ---
 
+## 🏦 Bank 
+- 1st Entrance: `X:-249 Y:141 Z:2333` 
+- 2nd Entrance: `X:-249 Y:141 Z:2368` 
+---
+
