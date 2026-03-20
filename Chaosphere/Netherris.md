@@ -5,6 +5,6 @@ Mountain town connected to Inferno
 ---
 
 ## 📍 Teleport Pad
-- Location: `X Y Z` 
+- Location: `X:-639 Y:113 Z:865` 
 
 ---
