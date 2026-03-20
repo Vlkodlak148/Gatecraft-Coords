@@ -14,8 +14,8 @@ A fan-made coords database for Gatecraft server.
 
 This is a **fan-made guide** to Gatecraft dungeons and treasure locations.  
 
-I am **not affiliated with Gatecraft or replacing the official Gatecraft Wiki**.  
-This repo is just a **community wiki / guide** to help players explore dungeons and find loot.  
+I am **not affiliated with, nor am I trying to replace, the Official Gatecraft Website or the official Gatecraft Wiki**.  
+This repo is simply a **community wiki / guide** to help players explore dungeons and find loot.  
 
 Some coordinates may change after server updates or resets. Always explore carefully! 🗺️⚔️
 
