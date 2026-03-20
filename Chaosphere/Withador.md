@@ -1,11 +1,11 @@
 # 🏚️ Withador
 
-Haunted town next to Skeledar, home to Wither Skeletons 👻☠️
+Haunted town next to Skeledar, home to Wither Skeletons 
 
 ---
 
 ## 📍 Teleport Pad
-- Location: `X Y Z` 
+- Location: `X:-139 Y:143 Z:2502` 
 
 ---
 
