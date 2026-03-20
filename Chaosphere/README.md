@@ -1,7 +1,7 @@
 # ⚔️ Chaosphere
 
 Welcome to the **Chaosphere** world!   
-This world is filled with mysterious dungeons, hidden treasures, and lots of Endermen. Explore carefully! 👁️⚡
+This world is Pvp/PvE so watchout for hunters. Explore carefully! 👁️⚡
 
 ---
 
