@@ -15,13 +15,16 @@ This world is Pvp/PvE so watchout for hunters. Explore carefully! 👁️⚡
 Here are the dungeons currently mapped in Chaosphere:
 
 - 🟣 [Enderia](Enderia.md) – Dungeon with Endermen and treasure
-- ⚡ *(Future dungeons will be added here)*
+- *(Future dungeons will be added here)*
 
 ---
 
 ## 🏘️ Towns
 Here are the currently mapped towns in Chaosphere:
 
+- 🏚️ [Withador] – haunted town near Skeledar, home to Wither Skeletons
+- 🌋 [Netherris] – mountain town connected to Inferno, expect lava and dangerous mobs
+- 🏰 [Yorkshire] – fortified town with walls, market stalls, and a port
 - *(Future towns will be added here)*
 
 ---
