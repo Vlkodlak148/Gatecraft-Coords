@@ -19,5 +19,12 @@ Here are the dungeons currently mapped in Chaosphere:
 
 ---
 
+## 🏘️ Towns
+Here are the currently mapped towns in Chaosphere:
+
+- *(Future towns will be added here)*
+
+---
+
 ## ⚠️ Notes
 Coordinates may change after server updates or resets. Always explore carefully! 🗺️⚔️
