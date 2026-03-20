@@ -19,15 +19,15 @@ Here are some known mining locations:
 ## 🗺️ Dungeons
 Known dungeons in Mining Colony:
 
-- ⚔️ [Copper Dungeon](Copper Dungeon.md)   
+- ⚔️ [Copper Dungeon](Copper-Dungeon.md)   
 - ⚔️ *(More dungeons coming soon)*
 
 ---
 
 ## 👤 NPCs
-- NPC 1: `X Y Z` – miner ⛏️  
-- NPC 2: `X Y Z` – trader 🏪  
-- NPC 3: `X Y Z` – quest giver 📝  
+- NPC 1: `X Y Z` 
+- NPC 2: `X Y Z` 
+- NPC 3: `X Y Z`  
 
 ---
 
