@@ -3,9 +3,9 @@ A fan-made coords database for Gatecraft server.
 
 ## 🌍 Worlds
 
-- 🏰 ~~[Kingdom](Kingdom/README.md)~~ *(work in progress)*  
-- 🔥 ~~[Inferno](Inferno/README.md)~~ *(work in progress)*  
-- ⚒️ ~~[Mining Colony](Mining%20colony/README.md)~~ *(work in progress)*  
+- 🏰 ~~[Kingdom](Kingdom/README.md)~~ *(Coming Soon)*  
+- 🔥 ~~[Inferno](Inferno/README.md)~~ *(Coming Soon)*
+- ⚒️ ~~[Mining Colony](Mining%20colony/README.md)~~ *(Coming Soon)*  
 - ⚔️ [Chaosphere](Chaosphere/README.md)
 
   ---
