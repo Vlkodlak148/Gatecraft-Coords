@@ -8,11 +8,11 @@ This world is focused on mining resources, gathering materials, and exploring a 
 ## ⛏️ Mines
 Here are some known mining locations:
 
-- Mine Alpha: `X Y Z` 
-- Mine Beta: `X Y Z`  
-- Mine Gamma: `X Y Z`
-- Mine Delta: `X Y Z`
-- Mine Epsilon: `X Y Z`
+- Mine Alpha:    `X:259 Y:53 Z:82` 
+- Mine Beta:     `X:85 Y:65 Z:221`  
+- Mine Gamma:    `X:-603 Y:70 Z:-11`
+- Mine Delta:    `X:787 Y:64 Z:-500`
+- Mine Epsilon:  `X:236 Y:66 Z:806`
 
 ---
 
