@@ -25,14 +25,15 @@ Known dungeons in Mining Colony:
 ---
 
 ## 👤 NPCs
-- (Innkeeper) Cipera: `X:177 Y:65 Z:82` 
-- Tihomir Kvasnicka: `X:210 Y:70 Z:148` 
+- (Innkeeper) Cipera: `X:177 Y:65 Z:82` - Quests
+- Tihomir Kvasnicka: `X:210 Y:70 Z:148` - Quest: New Beer
 - Petr Bajza: `X:198 Y:70 Z:158`
 - Bojan Fijalka: `X:177 Y:71 Z:160`
-- Jaroslav Psenicka: `X:215 Y:68 Z:189`
+- Jaroslav Psenicka: `X:215 Y:68 Z:189` - Quest: New Beer
 - Hanry Blackwell: `X:74 Y:66 Z:213`
-- Bartos Novak: `X:-512 Y:65 Z:67`
-- Marlow: `X:-240 Y:74 Z:1128`
+- Bartos Novak: `X:-512 Y:65 Z:67` - Quest: Food Delivery
+- Marlow: `X:-240 Y:74 Z:1128` -Quests
+- Laszlo Kovac: `X:246 Y:68 Z:149` 
 
 ---
 
