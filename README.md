@@ -5,8 +5,8 @@ A fan-made coords database for Gatecraft server.
 
 - 🏰 ~~[Kingdom](Kingdom/README.md)~~ *(Coming Soon)*  
 - 🔥 ~~[Inferno](Inferno/README.md)~~ *(Coming Soon)*
-- ⚒️ [Mining Colony](mining-colony/) *(Work In Progress)*  
-- ⚔️ [Chaosphere](chaosphere/) *(Work In Progress)*
+- ⚒️ [Mining Colony](mining-colony/README.md) *(Work In Progress)*  
+- ⚔️ [Chaosphere](chaosphere/README.md) *(Work In Progress)*
 
   ---
 
