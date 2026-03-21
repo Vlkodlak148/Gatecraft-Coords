@@ -4,13 +4,11 @@
   <meta charset="UTF-8">
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
 <body>
   <header>
     <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-    <input type="text" id="search-input" placeholder="Search...">
   </header>
 
   <main>
@@ -18,19 +16,7 @@
   </main>
 
   <footer>
-    Gatecraft Coords maintained by {{ site.author.name }}
+    <p>Gatecraft Coords maintained by {{ site.author.name }}</p>
   </footer>
-
-  <script>
-    // Simple search script
-    const searchInput = document.getElementById('search-input');
-    searchInput.addEventListener('input', async function() {
-      const query = this.value.toLowerCase();
-      const res = await fetch('{{ site.baseurl }}/search.json');
-      const data = await res.json();
-      const results = data.filter(item => item.title.toLowerCase().includes(query));
-      console.log(results); // You can later render these as a list
-    });
-  </script>
 </body>
 </html>
