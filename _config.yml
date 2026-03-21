@@ -1,5 +1,44 @@
 title: Gatecraft Coords
 description: A fan-made coords database for Gatecraft server
-theme: jekyll-theme-slate
+baseurl: "" # leave empty if publishing on root
+url: "https://vlkodlak148.github.io/Gatecraft-Coords"
+
+# Theme
+theme: jekyll-theme-slate  # or minimal, whichever you like
+
+# Author
+author:
+  name: Vlkodlak148
+  email: Vlkodlak148@proton.me
+
+# Navigation / Pages (optional)
+collections:
+  worlds:
+    output: true
+
+# Exclude files/folders from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Markdown / formatting
 markdown: kramdown
 highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+future: true
+
+# Add this section to keep URLs clean
+defaults:
+  - scope:
+      path: ""       # applies to all files
+      type: "pages"
+    values:
+      permalink: /:path/  # keeps the path same as filename, no .html
