@@ -1,2 +1,11 @@
 title: Gatecraft Coords
+description: A fan-made coords database for Gatecraft server
+baseurl: "" 
+url: "https://vlkodlak148.github.io/Gatecraft-Coords"
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-relative-links
+markdown: kramdown
+highlighter: rouge
