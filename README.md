@@ -1,8 +1,3 @@
----
-layout: default
-title: Gatecraft Coords
----
-
 # Gatecraft Coords
 A fan-made coords database for Gatecraft server.
 
