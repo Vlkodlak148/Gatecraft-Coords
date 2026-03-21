@@ -1,3 +1,38 @@
+# _config.yml
+
 title: Gatecraft Coords
-description: Fan-made coords database for Gatecraft server
+description: A fan-made coords database for Gatecraft server
+baseurl: "" # leave empty if publishing on root of your repo
+url: "https://vlkodlak148.github.io/Gatecraft-Coords" # replace with your GitHub Pages URL
+
+# Theme
 theme: jekyll-theme-minimal
+
+# Author
+author:
+  name: Vlkodlak148
+  email: Vlkodlak148@proton.me
+
+# Navigation / Pages (optional, if you use collections or custom pages)
+collections:
+  worlds:
+    output: true
+
+# Exclude files/folders from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Markdown / formatting
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (if any)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+future: true
