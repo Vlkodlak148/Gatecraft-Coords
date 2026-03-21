@@ -1,12 +1,61 @@
-title: Gatecraft Coords
-theme: jekyll-theme-slate
+# _config.yml
 
+title: Gatecraft Coords
+description: A fan-made coords database for Gatecraft server
+baseurl: ""  # leave empty if publishing at root
+url: "https://vlkodlak148.github.io/Gatecraft-Coords"
+
+# Theme
+theme: jekyll-theme-slate  # nebo jekyll-theme-minimal pokud chceš světlé
+
+# Author
+author:
+  name: Vlkodlak148
+  email: Vlkodlak148@proton.me
+
+# Navigation menu
 nav:
-  - title: "Worlds"
+  - title: "Home"
     url: "/"
+  - title: "Kingdom"
+    url: "/kingdom/"
+  - title: "Inferno"
+    url: "/inferno/"
   - title: "Mining Colony"
     url: "/mining-colony/"
   - title: "Chaosphere"
     url: "/chaosphere/"
-  - title: "GitHub"
-    url: "https://github.com/Vlkodlak148/Gatecraft-Coords"
+
+# Markdown / formatting
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-relative-links
+
+# Exclude files/folders from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Build settings
+future: true
+
+# Keep clean URLs (remove .html from links)
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      permalink: /:path/
+
+# Collections (optional)
+collections:
+  worlds:
+    output: true
