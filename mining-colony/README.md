@@ -19,7 +19,7 @@ Here are some known mining locations:
 ## 🗺️ Dungeons
 Known dungeons in Mining Colony:
 
-- 🟠 [Copper Dungeon](Copper%20Dungeon.md)   
+- 🟠 [Copper Dungeon](copper-dungeon.html)   
 - ⚔️ *(More dungeons coming soon)*
 
 ---
