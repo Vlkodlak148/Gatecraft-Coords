@@ -1,27 +1,18 @@
+# _config.yml
+
+# Site info
 title: Gatecraft Coords
 description: A fan-made coords database for Gatecraft server
-baseurl: "" # leave empty if publishing on root
+baseurl: "" 
 url: "https://vlkodlak148.github.io/Gatecraft-Coords"
 
 # Theme
-theme: jekyll-theme-slate  # or minimal, whichever you like
+theme: jekyll-theme-slate
 
 # Author
 author:
   name: Vlkodlak148
   email: Vlkodlak148@proton.me
-
-# Navigation / Pages (optional)
-collections:
-  worlds:
-    output: true
-
-# Exclude files/folders from build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
 
 # Markdown / formatting
 markdown: kramdown
@@ -32,13 +23,33 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Build settings
+# Exclude unnecessary files/folders from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections (optional, not strictly needed for normal folders)
+collections:
+  worlds:
+    output: true
+
+# Keep future-dated posts/pages visible
 future: true
 
-# Add this section to keep URLs clean
+# Permalinks / clean URLs for root pages
 defaults:
   - scope:
       path: ""       # applies to all files
       type: "pages"
     values:
-      permalink: /:path/  # keeps the path same as filename, no .html
+      permalink: /:path/
+
+# Notes:
+# - Subfolders like chaosphere/, mining-colony/ etc. will generate .html pages
+# - Use links to the .html files in your README, e.g.:
+#   - [Marshes of Oblivion](marshes-of-oblivion.html)
+#   - [Pale Cave](pale-cave.html)
+#   - [Chaos Maze](chaos-maze.html)
+# - Theme will now be applied to all generated pages automatically
