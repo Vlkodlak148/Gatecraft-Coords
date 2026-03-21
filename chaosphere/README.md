@@ -1,8 +1,3 @@
----
-layout: default
-title: Chaosphere
----
-
 # ⚔️ Chaosphere
 
 Welcome to the **Chaosphere** world!   
