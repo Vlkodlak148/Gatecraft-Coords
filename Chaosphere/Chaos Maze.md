@@ -1,6 +1,6 @@
 # 🌀 Chaos Maze
 
-A confusing maze filled with pigmen and hidden treasure 🐷🔥
+A confusing maze filled with pigmen and hidden treasure 
 
 ---
 
