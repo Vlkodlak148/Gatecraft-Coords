@@ -1,2 +1,12 @@
 title: Gatecraft Coords
 theme: jekyll-theme-slate
+
+nav:
+  - title: "Worlds"
+    url: "/"
+  - title: "Mining Colony"
+    url: "/mining-colony/"
+  - title: "Chaosphere"
+    url: "/chaosphere/"
+  - title: "GitHub"
+    url: "https://github.com/Vlkodlak148/Gatecraft-Coords"
