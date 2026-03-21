@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Gatecraft Coords
 ---
 
 # Gatecraft Coords
