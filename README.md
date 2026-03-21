@@ -3,8 +3,8 @@ A fan-made coords database for Gatecraft server.
 
 ## 🌍 Worlds
 
-- 🏰 ~~[Kingdom](Kingdom/README.md)~~ *(Coming Soon)*  
-- 🔥 ~~[Inferno](Inferno/README.md)~~ *(Coming Soon)*
+- 🏰 ~~[Kingdom](kingdom/README.md)~~ *(Coming Soon)*  
+- 🔥 ~~[Inferno](inferno/README.md)~~ *(Coming Soon)*
 - ⚒️ [Mining Colony](mining-colony/README.md) *(Work In Progress)*  
 - ⚔️ [Chaosphere](chaosphere/README.md) *(Work In Progress)*
 
