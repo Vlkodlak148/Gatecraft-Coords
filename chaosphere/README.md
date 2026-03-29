@@ -33,5 +33,13 @@ Here are the currently mapped towns in Chaosphere:
 
 ---
 
+## 🐺 Wolf Spawn Locations (Wolf Quest)
+
+- Wolf Spawn 1:** `X:349 Y:70 Z:482`
+- Wolf Spawn 2:** `X:398 Y:72 Z:435`
+- Wolf Spawn 3:** `X:291 Y:71 Z:464`
+
+---
+
 ## 🚧 Work in Progress
 This world is still being documented. More mines, dungeons, and locations will be added soon ⏳
