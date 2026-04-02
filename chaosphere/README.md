@@ -16,8 +16,8 @@ Here are the dungeons currently mapped in Chaosphere:
 
 - 🟣 [Enderia](Enderia.html) – Dungeon with Endermen and treasure
 - ☠️ [Skeledar](Skeledar.html) – Dungeon and home of skeletons
-- 🧙‍♀️ [Marshes of Oblivion](marshes-of-oblivion.html) – Swamp where witches live and brew potions *(Coming Soon)*
-- 🐷 [Chaos Maze](chaos-maze.html) – Confusing maze filled with pigmen and XP bottle loot *(Coming Soon)*
+- 🧙‍♀️ [Marshes of Oblivion](marshes-of-oblivion.html) – Swamp where witches live and brew potions 
+- 🐷 [Chaos Maze](chaos-maze.html) – Confusing maze filled with pigmen and XP bottle loot 
 - 🪨 [Pale Cave](pale-cave.html) – Cave with Vex and pale oak trees *(Coming Soon)*
 - *(Future dungeons will be added here)*
 
