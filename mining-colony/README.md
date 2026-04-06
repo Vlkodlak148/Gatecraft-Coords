@@ -24,6 +24,15 @@ Known dungeons in Mining Colony:
 
 ---
 
+## 🌻 Flower Farm Locations
+These plots grow the rare blooms and dyes found within the colony limits:
+
+- Eyeblossom farm: `X:0 Y:0 Z:0`
+- Blue Orchid farm: `X:0 Y:0 Z:0`
+- Oxyeye Daisy farm: `X:0 Y:0 Z:0`
+
+---
+
 ## 👤 NPCs
 - (Innkeeper) Cipera: `X:177 Y:65 Z:82` - Quests
 - Tihomir Kvasnicka: `X:210 Y:70 Z:148` - Quest: New Beer
