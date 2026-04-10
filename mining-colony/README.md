@@ -29,7 +29,7 @@ These plots grow the rare blooms and dyes found within the colony limits:
 
 - Eyeblossom farm: `X:-241 Y:63 Z:-273`
 - Blue Orchid farm: `X:353 Y:63 Z:-227`
-- Oxyeye Daisy farm: `X:0 Y:0 Z:0`
+- Oxyeye Daisy farm: `X:-228 Y:67 Z:441`
 
 ---
 
