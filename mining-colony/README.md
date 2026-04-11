@@ -33,6 +33,15 @@ These plots grow the rare blooms and dyes found within the colony limits:
 
 ---
 
+## 🐔 Chicken Farm Locations
+These facilities ensure a steady supply of eggs and feathers across different biomes:
+
+- Temperate Chicken Farm: `X:-309 Y:68 Z:-233`
+- Cold Chicken Farm:      `X:907 Y:81 Z:-511`
+- Warm Chicken Farm:      `X:180 Y:67 Z:736`
+
+---
+
 ## 👤 NPCs
 - (Innkeeper) Cipera: `X:177 Y:65 Z:82` - Quests
 - Tihomir Kvasnicka: `X:210 Y:70 Z:148` - Quest: New Beer
