@@ -11,7 +11,8 @@ Mountain town connected to Inferno
 
 ## 🏦 Bank 
 - 1st Entrance: `X:-608 Y:119 Z:778` 
-- 2nd Entrance: `X:-652 Y:119 Z:778` 
+- 2nd Entrance: `X:-652 Y:119 Z:778`
+
 ---
 
 ## ⛏️ Mines
