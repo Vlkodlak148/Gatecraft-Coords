@@ -50,8 +50,11 @@ These farms ensure a steady supply of eggs and feathers across different biomes:
 - Jaroslav Psenicka: `X:215 Y:68 Z:189` - Quest: New Beer
 - Hanry Blackwell: `X:74 Y:66 Z:213`
 - Bartos Novak: `X:-512 Y:65 Z:67` - Quest: Food Delivery
-- Marlow: `X:-240 Y:74 Z:1128` -Quests
-- Laszlo Kovac: `X:246 Y:68 Z:149` 
+- Marlow: `X:-240 Y:74 Z:1128` - Quests
+- Laszlo Kovac: `X:246 Y:68 Z:149`
+- Mr Rabbit: `X:725 Y:64 Z:-497` - Easter Event Item Shop
+- Chicken Trader: `X:737 Y:66 Z:-467` - Easter Event Head Shop
+- McBunny: `X:719 Y:65 Z:-446` - Easter Quests
 
 ---
 
