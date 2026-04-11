@@ -34,7 +34,7 @@ These plots grow the rare blooms and dyes found within the colony limits:
 ---
 
 ## 🐔 Chicken Farm Locations
-These facilities ensure a steady supply of eggs and feathers across different biomes:
+These farms ensure a steady supply of eggs and feathers across different biomes:
 
 - Temperate Chicken Farm: `X:-309 Y:68 Z:-233`
 - Cold Chicken Farm:      `X:907 Y:81 Z:-511`
