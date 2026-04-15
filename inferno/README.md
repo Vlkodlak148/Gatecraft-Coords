@@ -8,9 +8,9 @@ This world is a modified Nether dimension focused on high-risk exploration.
 ## 🗺️ Dungeons
 Known dungeons in Inferno:
 
-- 🦴 [Bone Swamp](bone-swamp.md)
-- 🔥 [Blaze Bridges](blaze-bridges.md)
-- 🟢 [Slime Farm](slime-farm.md)
+- 🦴 ~~[Bone Swamp](bone-swamp.md)~~ *(Coming Soon)*
+- 🔥 ~~[Blaze Bridges](blaze-bridges.md)~~ *(Coming Soon)*
+- 🟢 ~~[Slime Farm](slime-farm.md)~~ *(Coming Soon)*
 - ⚔️ *(More dungeons coming soon)*
 
 ---
