@@ -5,7 +5,7 @@ A treacherous marshland dominated by skeletons and overgrown with Nether Wart ğŸ
 ---
 
 ## ğŸ“ Location
-- Entrance: `X:??? Y:??? Z:???`
+- Entrance: `X:18 Y:88 Z:-110`
 
 ---
 
