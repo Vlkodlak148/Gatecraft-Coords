@@ -5,12 +5,12 @@ An underwater dungeon filled with prismarine and dangerous aquatic mobs.
 ---
 
 ## 📍 Location
-- Entrance: `X:??? Y:??? Z:???`
+- Entrance: `X:-237 Y:42 Z:1127`
 
 ---
 
 ## 👤 NPC & Quests
-- **Marlow:** `X:??? Y:??? Z:???`
+- **Marlow:** `X:-240 Y:74 Z:1128`
   - Located near the cave entrance. 
   - Offers rewards for clearing out the hostile mobs.
 
