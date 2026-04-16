@@ -5,7 +5,7 @@ A fiery dungeon dominated by Blazes and bridges over lava 🌋
 ---
 
 ## 📍 Location
-- Entrance: `X:??? Y:??? Z:???`
+- Entrance: `X:-3 Y:75 Z:14`
 
 ---
 
