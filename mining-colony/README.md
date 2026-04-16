@@ -60,3 +60,5 @@ These farms ensure a steady supply of eggs and feathers across different biomes:
 
 ## 🚧 Work in Progress
 This world is still being documented. More mines, dungeons, and locations will be added soon ⏳
+
+---
