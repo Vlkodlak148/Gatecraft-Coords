@@ -43,3 +43,5 @@ Here are the currently mapped towns in Chaosphere:
 
 ## 🚧 Work in Progress
 This world is still being documented. More mines, dungeons, and locations will be added soon ⏳
+
+---
