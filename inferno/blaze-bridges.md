@@ -39,3 +39,5 @@ A fiery dungeon dominated by Blazes and bridges over lava 🌋
 ## 📜 Mechanics
 - **Interaction:** Click the **Glowstone** with an **empty hand** to receive a random item (including GC items).
 - **Cooldown:** After use, the block turns into **Bedrock** and regenerates back to Glowstone after one Minecraft day.
+
+---
