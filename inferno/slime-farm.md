@@ -5,8 +5,8 @@ A hidden breeding ground for Slimes, accessible only through a maze of undergrou
 ---
 
 ## 📍 Location
-- Tunnel Entrance: `X:??? Y:??? Z:???`
-- Slime Farm Lift: `X:??? Y:??? Z:???`
+- Tunnel Entrance: `X:-3 Y:9 Z:-12`
+- Slime Farm Lift: `X:-23 Y:9 Z:-114`
 
 ---
 
