@@ -10,7 +10,7 @@ Known dungeons in Inferno:
 
 - 🦴 [Bone Swamp](bone-swamp.html)
 - 🔥 [Blaze Bridges](blaze-bridges.html)
-- 🟢 ~~[Slime Farm](slime-farm.html)~~ *(Coming Soon)*
+- 🟢 [Slime Farm](slime-farm.html)
 - ⚔️ *(More dungeons coming soon)*
 
 ---
