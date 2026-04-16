@@ -19,7 +19,8 @@ Here are some known mining locations:
 ## 🗺️ Dungeons
 Known dungeons in Mining Colony:
 
-- 🟠 [Copper Dungeon](copper-dungeon.html)   
+- 🟠 [Copper Dungeon](copper-dungeon.html)
+- 🏛️ [Prismarine Cave](prismarine-cave.html)
 - ⚔️ *(More dungeons coming soon)*
 
 ---
