@@ -22,3 +22,5 @@ Known dungeons in Inferno:
 
 ## 🚧 Work in Progress
 This world is still being documented. More outposts, dungeons, and locations will be added soon ⏳
+
+---
