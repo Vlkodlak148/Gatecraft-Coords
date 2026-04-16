@@ -16,7 +16,7 @@ Known dungeons in Inferno:
 ---
 
 ## 👤 NPCs
-- Mayor Derrek: `X:??? Y:??? Z:???` - Quests
+- Mayor Derrek/Darrek: `X:285 Y:49 Z:30` - Quests
 
 ---
 
