@@ -1,6 +1,6 @@
 # 🕷️ Arachnophobia
 
-A dark, cobweb-covered forest located right next to the **Dormitory (Ubytovna)**. This area has been completely overrun by spiders, making it a dangerous zone for new citizens. 🕸️
+A dark, cobweb-covered forest located right next to the hostel. This area has been completely overrun by spiders, making it a dangerous zone for new citizens. 🕸️
 
 ---
 
