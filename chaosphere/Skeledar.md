@@ -5,11 +5,13 @@ A dangerous dungeon and the home of skeletons 💀
 ---
 
 ## 📍 Location
+
 - Entrance: `X:767 Y:73 Z:1872`
 
 ---
 
 ## 📦 Chests
+
 - Chest 1: `X:878 Y:76 Z:1897`  
 - Chest 2: `X:828 Y:73 Z:1948`  
 - Chest 3: `X:917 Y:30 Z:1948`
@@ -29,6 +31,7 @@ A dangerous dungeon and the home of skeletons 💀
 ---
 
 ## 👾 Mobs
+
 - Revenant Warrior
 - Revenant Nomad
 - Revenant Horse Rider
