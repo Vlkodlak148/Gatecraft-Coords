@@ -5,11 +5,13 @@ A confusing maze filled with pigmen and hidden treasure
 ---
 
 ## 📍 Location
+
 - Entrance: `X:-438 Y:71 Z:413` and Entrance: `X:-14 Y:76 Z:381`
 
 ---
 
 ## 📦 Chests
+
 - Pigman Boss Chest: `X:-414 Y:59 Z:96` 
 - Chest 1: `X:-247 Y:78 Z:329`  
 - Chest 2: `X:-373 Y:79 Z:281`  
@@ -65,6 +67,7 @@ A confusing maze filled with pigmen and hidden treasure
 ---
 
 ## 👾 Mobs
+
 - Pigmen   
 - Pigman Boss  
 
