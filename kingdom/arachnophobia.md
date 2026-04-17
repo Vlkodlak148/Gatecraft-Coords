@@ -27,8 +27,8 @@ A dark, cobweb-covered forest located right next to the hostel. This area has be
 
 ## ⚠️ Survival Tips
 
-- Look Up: Spiders in this forest often drop from the leaves above.
-- New Players: Ensure you have basic armor from the starter kits before entering.
+- **Look Up:** Spiders in this forest often drop from the leaves above.
+- **New Players:** Ensure you have basic armor from the starter kits before entering.
 
 ---
 
