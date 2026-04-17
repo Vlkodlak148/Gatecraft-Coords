@@ -5,11 +5,13 @@ A dark swamp where witches live and brew dangerous potions
 ---
 
 ## 📍 Location
+
 - Entrance: `X Y Z`
 
 ---
 
 ## 📦 Chests
+
 - Chest 1: `X:-1528 Y:85 Z:-105`  
 - Chest 2: `X:-1543 Y:85 Z:-105`  
 - Chest 3: `X:-1394 Y:69 Z:-195`
@@ -60,6 +62,7 @@ A dark swamp where witches live and brew dangerous potions
 ---
 
 ## 👾 Mobs
+
 - Witches     
 
 ---
