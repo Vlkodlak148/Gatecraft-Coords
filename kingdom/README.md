@@ -39,6 +39,7 @@ In the Kingdom, you will meet important characters who will help you navigate an
 Even though the Kingdom is a more peaceful world, you can find a few dungeons and secret locations here (or in close proximity):
 
 - 🕷️ [Arachnophobia](arachnophobia.html) – A small infested forest near the dormitory crawling with spiders
+- *(Future dungeons will be added here)*
 
 ---
 
