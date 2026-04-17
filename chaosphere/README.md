@@ -6,6 +6,7 @@ This world is Pvp/PvE so watch out for hunters. Explore carefully! 👁️⚡
 ---
 
 ## 📜 About Chaosphere
+
 - A dangerous and magical world, full of mysterious dungeons  
 - Known for rare loot and unique dungeons    
 
