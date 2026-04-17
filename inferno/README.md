@@ -11,7 +11,6 @@ Known dungeons in Inferno:
 - 🦴 [Bone Swamp](bone-swamp.html) – A dark underground cave system filled with skeletons and Nether Wart
 - 🔥 [Blaze Bridges](blaze-bridges.html) – A fiery bridge system dominated by Blazes and Glowstone rewards
 - 🟢 [Slime Farm](slime-farm.html) – A hidden farm reachable only through secret underground tunnels
-- ⚔️ *(More dungeons coming soon)*
 
 ---
 
