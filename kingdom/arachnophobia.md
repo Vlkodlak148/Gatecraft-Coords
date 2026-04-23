@@ -12,7 +12,7 @@ A dark, cobweb-covered forest located right next to the hostel. This area has be
 
 ## 📜 Quest Information
 
-- **Quest Giver:** Jameson (Prime City)
+- **Quest Giver:** Sir Jameson (Prime City)
 - **Objective:** Eliminate the spiders from the woods.
 - **Requirement:** This is part of the early-game questline.
 
