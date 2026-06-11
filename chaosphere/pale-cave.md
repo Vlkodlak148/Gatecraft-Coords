@@ -12,14 +12,14 @@ A mysterious cave filled with Vex and pale oak trees
 
 ## 📦 Barrels
 
-- Barrel 1: `X: Y: Z:`  
-- Barrel 2: `X: Y: Z:`  
-- Barrel 3: `X: Y: Z:`
-- Barrel 4: `X: Y: Z:`
-- Barrel 5: `X: Y: Z:`
-- Barrel 6: `X: Y: Z:`
-- Barrel 7: `X: Y: Z:`
-- Barrel 8: `X: Y: Z:`
+- Barrel 1: `X:-26 Y:88 Z:-236`  
+- Barrel 2: `X:-8 Y:88 Z:-252`  
+- Barrel 3: `X:-41 Y:87 Z:-264`
+- Barrel 4: `X:-48 Y:93 Z:-325`
+- Barrel 5: `X:-18 Y:103 Z:-341`
+- Barrel 6: `X:3 Y:88 Z:-216`
+- Barrel 7: `X:-2 Y:87 Z:-188`
+- Barrel 8: `X:-22 Y:87 Z:-174`
 
 ---
 
