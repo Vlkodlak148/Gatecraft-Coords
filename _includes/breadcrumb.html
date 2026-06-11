@@ -1,0 +1,55 @@
+{% comment %}
+  Breadcrumb include — shadcn/ui style
+  Uses front matter:
+    breadcrumb_world:      "Chaosphere"          (display label for world level)
+    breadcrumb_world_url:  "/chaosphere/"        (URL for world level)
+    breadcrumb_page:       "Enderia"             (current page label, no link)
+
+  Examples:
+    Root page  → Home
+    World page → Home › Chaosphere
+    Sub page   → Home › Chaosphere › Enderia
+{% endcomment %}
+
+<nav aria-label="breadcrumb" class="gc-breadcrumb">
+  <ol class="gc-breadcrumb__list">
+
+    {% comment %} — Home is always present — {% endcomment %}
+    <li class="gc-breadcrumb__item">
+      {% if page.url == "/" or page.url == "/index.html" %}
+        <span class="gc-breadcrumb__page" aria-current="page">Home</span>
+      {% else %}
+        <a class="gc-breadcrumb__link" href="{{ '/' | relative_url }}">Home</a>
+      {% endif %}
+    </li>
+
+    {% comment %} — World level — {% endcomment %}
+    {% if page.breadcrumb_world %}
+      <li class="gc-breadcrumb__separator" aria-hidden="true">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M6.1584 3.13508C6.35985 2.94621 6.67627 2.95642 6.86514 3.15788L10.6151 7.15788C10.7954 7.3502 10.7954 7.6498 10.6151 7.84213L6.86514 11.8421C6.67627 12.0436 6.35985 12.0538 6.1584 11.8649C5.95694 11.6761 5.94673 11.3596 6.1356 11.1582L9.565 7.5L6.1356 3.84182C5.94673 3.64036 5.95694 3.32394 6.1584 3.13508Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+        </svg>
+      </li>
+      <li class="gc-breadcrumb__item">
+        {% if page.breadcrumb_page %}
+          <a class="gc-breadcrumb__link" href="{{ page.breadcrumb_world_url | relative_url }}">{{ page.breadcrumb_world }}</a>
+        {% else %}
+          <span class="gc-breadcrumb__page" aria-current="page">{{ page.breadcrumb_world }}</span>
+        {% endif %}
+      </li>
+    {% endif %}
+
+    {% comment %} — Sub-page (dungeon / town) level — {% endcomment %}
+    {% if page.breadcrumb_page %}
+      <li class="gc-breadcrumb__separator" aria-hidden="true">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M6.1584 3.13508C6.35985 2.94621 6.67627 2.95642 6.86514 3.15788L10.6151 7.15788C10.7954 7.3502 10.7954 7.6498 10.6151 7.84213L6.86514 11.8421C6.67627 12.0436 6.35985 12.0538 6.1584 11.8649C5.95694 11.6761 5.94673 11.3596 6.1356 11.1582L9.565 7.5L6.1356 3.84182C5.94673 3.64036 5.95694 3.32394 6.1584 3.13508Z" fill="currentColor" fill-rule="evenodd" clip-rule="evenodd"></path>
+        </svg>
+      </li>
+      <li class="gc-breadcrumb__item">
+        <span class="gc-breadcrumb__page" aria-current="page">{{ page.breadcrumb_page }}</span>
+      </li>
+    {% endif %}
+
+  </ol>
+</nav>
