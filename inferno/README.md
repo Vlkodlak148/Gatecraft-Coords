@@ -1,3 +1,7 @@
+---
+breadcrumb_world: "Inferno"
+breadcrumb_world_url: "/inferno/"
+---
 # 🔥 Inferno
 
 Welcome to the **Inferno** world! 🌋  

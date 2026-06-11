@@ -1,3 +1,7 @@
+---
+breadcrumb_world: "Kingdom"
+breadcrumb_world_url: "/kingdom/"
+---
 # 🏰 Kingdom
 
 Welcome to the **Kingdom**! 👑  

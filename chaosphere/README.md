@@ -1,3 +1,7 @@
+---
+breadcrumb_world: "Chaosphere"
+breadcrumb_world_url: "/chaosphere/"
+---
 # ⚔️ Chaosphere
 
 Welcome to the **Chaosphere** world!   
