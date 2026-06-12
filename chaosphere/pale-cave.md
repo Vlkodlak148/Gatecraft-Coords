@@ -6,7 +6,7 @@ A mysterious cave filled with Vex and pale oak trees
 
 ## 📍 Location
 
-- Entrance: `X: Y: Z:`
+- Entrance: `X:-55 Y:88 Z:-238`
 
 ---
 
