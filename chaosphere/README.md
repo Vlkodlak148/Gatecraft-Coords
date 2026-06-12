@@ -23,7 +23,7 @@ Here are the dungeons currently mapped in Chaosphere:
 - ☠️ [Skeledar](Skeledar.html) – Dungeon and home of skeletons
 - 🧙‍♀️ [Marshes of Oblivion](marshes-of-oblivion.html) – Swamp where witches live and brew potions 
 - 🐷 [Chaos Maze](chaos-maze.html) – Confusing maze filled with pigmen and XP bottle loot 
-- 🪨 [Pale Cave](pale-cave.html) – Cave with Vex and pale oak trees *(Coming Soon)*
+- 🪨 [Pale Cave](pale-cave.html) – Cave with Vex and pale oak trees 
 - *(Future dungeons will be added here)*
 
 ---
