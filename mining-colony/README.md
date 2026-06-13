@@ -1,5 +1,5 @@
 ---
-breadcrumb_world: "mining colony"
+breadcrumb_world: "Mining Colony"
 breadcrumb_world_url: "/mining-colony/"
 ---
 # ⛏️ Mining Colony
