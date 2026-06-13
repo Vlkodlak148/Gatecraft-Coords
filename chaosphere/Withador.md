@@ -1,3 +1,8 @@
+---
+breadcrumb_world: "Chaosphere"
+breadcrumb_world_url: "/chaosphere/README.html"
+breadcrumb_page: "Withador"
+---
 # 🏚️ Withador
 
 Haunted town next to Skeledar, home to Wither Skeletons 
