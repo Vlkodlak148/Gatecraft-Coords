@@ -1,3 +1,7 @@
+breadcrumb_world: "Inferno"
+breadcrumb_world_url: "/inferno/README.html"
+breadcrumb_page: "Blaze Bridges"
+---
 # 🔥 Blaze Bridges
 
 A fiery dungeon dominated by Blazes and bridges over lava 🌋
