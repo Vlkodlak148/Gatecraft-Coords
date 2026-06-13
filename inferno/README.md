@@ -1,5 +1,5 @@
 ---
-breadcrumb_world: "inferno"
+breadcrumb_world: "Inferno"
 breadcrumb_world_url: "/inferno/"
 ---
 # 🔥 Inferno
