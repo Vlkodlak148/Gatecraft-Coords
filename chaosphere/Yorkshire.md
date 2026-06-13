@@ -1,3 +1,7 @@
+---
+breadcrumb_world: "Chaosphere"
+breadcrumb_world_url: "/chaosphere/Yorkshire"
+---
 # 🏰 Yorkshire
 
 A fortified town with walls, market stalls, and a port ⚓
