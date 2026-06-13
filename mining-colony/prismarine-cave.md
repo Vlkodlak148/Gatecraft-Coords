@@ -1,3 +1,8 @@
+---
+breadcrumb_world: "Mining Colony"
+breadcrumb_world_url: "/mining-colony/README.html"
+breadcrumb_page: "Prismarine Cave"
+---
 # 🏛️ Prismarine Cave
 
 An underwater dungeon filled with prismarine and dangerous aquatic mobs.
