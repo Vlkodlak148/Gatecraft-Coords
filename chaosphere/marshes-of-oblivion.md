@@ -1,3 +1,8 @@
+---
+breadcrumb_world: "Chaosphere"
+breadcrumb_world_url: "/chaosphere/README.html"
+breadcrumb_page: "Marshes of Oblivion"
+---
 # 🧙‍♀️ Marshes of Oblivion
 
 A dark swamp where witches live and brew dangerous potions 
