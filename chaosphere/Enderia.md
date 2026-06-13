@@ -1,3 +1,8 @@
+---
+breadcrumb_world: "Chaosphere"
+breadcrumb_world_url: "/chaosphere/README.html"
+breadcrumb_page: "Enderia"
+---
 # 🟣 Enderia
 
 A dungeon in the **Chaosphere** world featuring Endermen and treasure chests! 👁️📦
