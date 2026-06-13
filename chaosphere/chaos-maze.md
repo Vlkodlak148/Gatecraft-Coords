@@ -1,3 +1,8 @@
+---
+breadcrumb_world: "Chaosphere"
+breadcrumb_world_url: "/chaosphere/README.html"
+breadcrumb_page: "Chaos Maze"
+---
 # 🌀 Chaos Maze
 
 A confusing maze filled with pigmen and hidden treasure 
