@@ -1,3 +1,8 @@
+---
+breadcrumb_world: "Chaosphere"
+breadcrumb_world_url: "/chaosphere/README.html"
+breadcrumb_page: "Pale Cave"
+---
 # 👻 Pale Cave
 
 A mysterious cave filled with Vex and pale oak trees 
