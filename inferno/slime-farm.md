@@ -1,3 +1,8 @@
+---
+breadcrumb_world: "Inferno"
+breadcrumb_world_url: "/inferno/README.html"
+breadcrumb_page: "Slime Farm"
+---
 # 🟢 Slime Farm
 
 A hidden breeding ground for Slimes, accessible only through a maze of underground tunnels deep within Inferno 🦠
