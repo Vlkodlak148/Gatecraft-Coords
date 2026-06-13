@@ -1,3 +1,8 @@
+---
+breadcrumb_world: "Chaosphere"
+breadcrumb_world_url: "/chaosphere/README.html"
+breadcrumb_page: "Skeledar"
+---
 # ☠️ Skeledar
 
 A dangerous dungeon and the home of skeletons 💀
