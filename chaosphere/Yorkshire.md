@@ -1,6 +1,6 @@
 ---
 breadcrumb_world: "Chaosphere"
-breadcrumb_world_url: "/chaosphere/"
+breadcrumb_world_url: "/chaosphere/README.md"
 breadcrumb_page: "Yorkshire"
 ---
 # 🏰 Yorkshire
