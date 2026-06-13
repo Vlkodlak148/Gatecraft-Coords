@@ -1,6 +1,7 @@
 ---
 breadcrumb_world: "Chaosphere"
-breadcrumb_world_url: "/chaosphere/Yorkshire"
+breadcrumb_world_url: "/chaosphere/"
+breadcrumb_page: "Yorkshire"
 ---
 # 🏰 Yorkshire
 
