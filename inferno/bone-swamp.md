@@ -1,3 +1,8 @@
+---
+breadcrumb_world: "Inferno"
+breadcrumb_world_url: "/inferno/README.html"
+breadcrumb_page: "Bone Swamp"
+---
 # 🦴 Bone Swamp
 
 A treacherous marshland dominated by skeletons and overgrown with Nether Wart 💀
