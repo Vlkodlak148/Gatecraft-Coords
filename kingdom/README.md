@@ -31,7 +31,7 @@ The Gatecraft philosophy is built on traveling between worlds using magical Gate
 ## 🏙️ Prime City
 The central hub of the Kingdom and the place you arrive after leaving the starter world (Rogue Lands).
 
-- Main Spawn: `X:??? Y:??? Z:???`
+- Main Spawn: `X:95 Y:69 Z:126` *(/spawn location)*
 - Market / Shops: `X:??? Y:??? Z:???`
 - Farms: `X:??? Y:??? Z:???` *(Food source for travelers)*
 - Bank: `X:??? Y:??? Z:???`
