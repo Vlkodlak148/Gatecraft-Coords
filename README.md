@@ -32,6 +32,7 @@ If you notice any mistakes or bugs in the information, please contact me:
 
 - ✉️ Email: Vlkodlak148@proton.me  
 - 💬 Discord: @Vlkodlak149
+- 🐛 GitHub Issues: [Open an issue](https://github.com/Vlkodlak148/Gatecraft-Coords/issues/new)
 
 ---
 
