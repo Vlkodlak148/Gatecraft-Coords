@@ -32,17 +32,19 @@ The Gatecraft philosophy is built on traveling between worlds using magical Gate
 The central hub of the Kingdom and the place you arrive after leaving the starter world (Rogue Lands).
 
 - Main Spawn: `X:95 Y:69 Z:126` *(/spawn location)*
-- Market / Shops: `X:??? Y:??? Z:???`
-- Farms: `X:??? Y:??? Z:???` *(Food source for travelers)*
-- Bank: `X:??? Y:??? Z:???`
+- Marketplace: `X:65 Y:66 Z:299`
+- Animal farm store/Animal farms: `X:29 Y:71 Z:108` 
+- Bank: `X:142 Y:72 Z:188`
 
 ---
 
 ## 👤 NPCs & Quests
 In the Kingdom, you will meet important characters who will help you navigate and give you quests:
 
-- Sir Jameson: `X:??? Y:??? Z:???` - *Main character for story quests (Arachnophobia, Creeper Anomaly, Zombocalypse).*
-- Pigman Synyster: `X:??? Y:??? Z:???` - *Resides in the Infernal Tower, trades lava and oversees the tower.*
+- Sir Jameson: `X:??? Y:??? Z:???` 
+- Pigman Synyster: `X:??? Y:??? Z:???`
+- Gatekeeper Clint: `X:??? Y:??? Z:???`
+- Gatekeeper Colin: `X:??? Y:??? Z:???`
 
 ---
 
