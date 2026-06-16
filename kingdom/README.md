@@ -41,10 +41,24 @@ The central hub of the Kingdom and the place you arrive after leaving the starte
 ## 👤 NPCs & Quests
 In the Kingdom, you will meet important characters who will help you navigate and give you quests:
 
-- Sir Jameson: `X:??? Y:??? Z:???` 
-- Pigman Synyster: `X:??? Y:??? Z:???`
-- Gatekeeper Clint: `X:??? Y:??? Z:???`
-- Gatekeeper Colin: `X:??? Y:??? Z:???`
+- Sir Jameson: `X:134 Y:77 Z:173` 
+- Pigman Synyster: `X:43 Y:111 Z:34`
+- Gatekeeper Clint: `X:99 Y:69 Z:114`
+- Gatekeeper Colin: `X:136 Y:108 Z:173`
+- Fisherman Jack: `X:147 Y:66 Z:83`
+- Sushi Chef: `X:130 Y:66 Z:127`
+- Resource Seller: `X:77 Y:68 Z:173`
+- Disk Seller: `X:90 Y:68 Z:193`
+- Block Mason: `X:66 Y:61 Z:215`
+- Florist: `X:98 Y:68 Z:229`
+- Knight Lancelot: `X:51 Y:66 Z:174` - `X:51 Y:66 Z:159`
+- Animal Keeper: `X:22 Y:72 Z:113`
+- Tech Mage: `X:-93 Y:71 Z:161`
+- Multiblock Seller: `X:-104 Y:42 Z:170`
+- Chicken Mage: `X:-96 Y:72 Z:213`
+- Easter Bunny: `X:-108 Y:73 Z:212`
+- Fixxy the blacksmith: `X:0 Y:71 Z:265`
+- Bureaucrat Bob: `X:155 Y:108 Z:247`
 
 ---
 
