@@ -14,10 +14,17 @@ This is the main social world of the Gatecraft server. The world is designed **e
 ## ⛩️ The Gates
 The Gatecraft philosophy is built on traveling between worlds using magical Gates. Gates serve as the main transport network to other dimensions:
 
-- Mining Colony Gate: `X:??? Y:??? Z:???` *(World dedicated to resource mining)*
-- Inferno Gate: `X:??? Y:??? Z:???` *(Dangerous world full of dungeons)*
-- PvP/Skyland Warzones Gates: `X:??? Y:??? Z:???`
-- Player StarGates: Unique gates that cities can get and own for fast travel.
+- Mining Colony Gate: `X:78 Y:69 Z:126` 
+- Inferno Gate: `X:52 Y:52 Z:50` 
+- Skyland Warzones Gate: `X:95 Y:69 Z:143`
+- Creative Garden Gate: `X:112 Y:69 Z:126`
+- Rogue Lands Gate: `X:95 Y:69 Z:109`
+- Chaosphere Gate: `X:-17 Y:85 Z:22`
+- Eden Garden Gate: `X:-110 Y:93 Z:-16`
+- Tropic Gate: `X:34 Y:68 Z:-17`
+- Nordic Gate: `X:17 Y:69 Z:-75`
+- Ice Caves Gate: `X:108 Y:60 Z:-38`
+- Snowyland Gate: `X:191 Y:64 Z:-32`
 
 ---
 
