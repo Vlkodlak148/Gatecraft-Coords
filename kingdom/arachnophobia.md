@@ -1,6 +1,7 @@
 ---
 breadcrumb_world: "Kingdom"
 breadcrumb_world_url: "/kingdom/README.html"
+breadcrumb_page: "Arachnofobia"
 ---
 # 🕷️ Arachnophobia
 
