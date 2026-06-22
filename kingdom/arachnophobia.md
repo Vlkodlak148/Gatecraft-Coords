@@ -1,3 +1,7 @@
+---
+breadcrumb_world: "Kingdom"
+breadcrumb_world_url: "/kingdom/README.html"
+---
 # 🕷️ Arachnophobia
 
 A dark, cobweb-covered forest located right next to the hostel. This area has been completely overrun by spiders, making it a dangerous zone for new citizens. 🕸️
