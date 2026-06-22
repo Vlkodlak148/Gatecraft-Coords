@@ -11,7 +11,7 @@ A dark, cobweb-covered forest located right next to the hostel. This area has be
 
 ## 📍 Location
 
-- Entrance: `X:??? Y:??? Z:???` - Located just near the Prime City Hostel
+- Entrance: `X:43 Y:66 Z:172` - Located just near the Prime City Hostel
 
 ---
 
